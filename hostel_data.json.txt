@@ -1,0 +1,28 @@
+SEARCH STUDENT
+1. Search by name
+2. Search by registration number
+Enter your choice: 1
+Enter student name: melly
+Student not found.
+CARAXES HOSTEL UGANDA
+1. Display hostels
+2. Add student
+3. Remove student
+4. Search student
+5. Show occupancy
+6. Show fees
+7. Record payment
+8. Show fee defaulters
+9. Exit
+Enter your choice: 4
+SEARCH STUDENT
+1. Search by name
+2. Search by registration number
+Enter your choice: 1
+Enter student name: juan
+Student found!
+Name: juan
+Registration number: stdl
+Age: 21
+Block: block A
+Room: A101
